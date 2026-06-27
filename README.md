@@ -105,4 +105,4 @@ Issues and PRs welcome. Keep new skills:
 
 ## License
 
-[MIT](./LICENSE) © 2026 koleenkbp@gmail.com
+[MIT](./LICENSE) © 2026 Koleen Baes Paunon koleen.bp@outlook.com
