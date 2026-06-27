@@ -10,10 +10,10 @@ output — no theater, no invented numbers, no silent edits to your repo.
 
 ## Skills in this pack
 
-| Skill | What it does | Trigger phrases |
-| ----- | ------------ | --------------- |
-| [`elite-lean-audit`](./elite-lean-audit/SKILL.md) | Repo-wide "trim the fat" audit. Finds and safely deletes dead code, demo scaffolding, junk files, and oversized modules, then proves nothing broke with the project's own type-check, tests, and build. | `audit the repo`, `trim the fat`, `lean audit`, `remove dead code`, `what can we delete`, `shrink the codebase` |
-| [`elite-security-agent`](./elite-security-agent/SKILL.md) | System-level security audit. Builds a threat model, runs SAST/SCA/IaC/secret scanners, walks every audit domain (DDoS, auth, injection, data, secrets, supply chain, infra, containers, CI/CD, AI/LLM, observability), scores findings, and ships a prioritized hardening roadmap. Advisory only by default. | `security audit`, `threat model`, `harden my system`, `pen test the architecture`, `protect against DDoS` |
+| Skill                                                     | What it does                                                                                                                                                                                                                                                                                                 | Trigger phrases                                                                                                 |
+| --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- |
+| [`elite-lean-audit`](./elite-lean-audit/SKILL.md)         | Repo-wide "trim the fat" audit. Finds and safely deletes dead code, demo scaffolding, junk files, and oversized modules, then proves nothing broke with the project's own type-check, tests, and build.                                                                                                      | `audit the repo`, `trim the fat`, `lean audit`, `remove dead code`, `what can we delete`, `shrink the codebase` |
+| [`elite-security-agent`](./elite-security-agent/SKILL.md) | System-level security audit. Builds a threat model, runs SAST/SCA/IaC/secret scanners, walks every audit domain (DDoS, auth, injection, data, secrets, supply chain, infra, containers, CI/CD, AI/LLM, observability), scores findings, and ships a prioritized hardening roadmap. Advisory only by default. | `security audit`, `threat model`, `harden my system`, `pen test the architecture`, `protect against DDoS`       |
 
 ## Install
 
@@ -106,3 +106,10 @@ Issues and PRs welcome. Keep new skills:
 ## License
 
 [MIT](./LICENSE) © 2026 Koleen Baes Paunon koleen.bp@outlook.com
+
+## Let's connect
+
+- Email: [koleen.bp@outlook.com](mailto:koleen.bp@outlook.com)
+- GitHub: [KBPsystem777](https://github.com/KBPsystem777)
+- LinkedIn: [Koleen Baes Paunon](https://www.linkedin.com/in/koleenbp)
+- MedixAI: https://getmedixai.com

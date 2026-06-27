@@ -1,0 +1,7 @@
+{
+  "name": "elite-lean-audit",
+  "version": "0.1.0",
+  "description": "Repo-wide trim-the-fat audit — safely deletes dead code, demo scaffolding, and junk; verified by the project's own type-check, tests, and build.",
+  "author": { "name": "Koleen Baes Paunon", "email": "koleen.bp@outlook.com" },
+  "license": "MIT"
+}

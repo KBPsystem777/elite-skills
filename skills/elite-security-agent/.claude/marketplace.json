@@ -1,0 +1,7 @@
+{
+  "name": "elite-security-agent",
+  "version": "0.1.0",
+  "description": "Full-system security auditor — builds a threat model, maps trust boundaries and data flows, hunts injection and access-control flaws, scores findings by severity and blast radius, and delivers a prioritized hardening roadmap with copy-pasteable fixes.",
+  "author": { "name": "Koleen Baes Paunon", "email": "koleen.bp@outlook.com" },
+  "license": "MIT"
+}
